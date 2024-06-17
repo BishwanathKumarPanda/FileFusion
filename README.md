@@ -10,3 +10,6 @@ Batch Processing: Upload multiple files in one go, saving time and effort for us
 Responsive Design: The application is fully responsive, ensuring a smooth experience across all devices, including desktops, tablets, and smartphones.
 Secure Uploads: Implementing robust security measures to protect user data during the upload process.
 
+# Screenshots:
+![Screenshot (102)](https://github.com/BishwanathKumarPanda/FileFusion/assets/138992024/d422d212-56cd-4c0f-aee1-46e20c275951)
+
